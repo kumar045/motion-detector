@@ -1,2 +1,2 @@
 # motion-detector
-based on CNN Neural Network Deep Machine Learning
+based on opencv deep Learning library
